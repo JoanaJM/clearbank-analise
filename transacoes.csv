@@ -1,0 +1,53 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-05,CLI001,credito,3500.00, Salario janeiro,salario
+2,2026-01-08,CLI002,debito,180.50,Supermercado central,compra
+3,2026-01-12,CLI003,debito,45.00,Lanchonete,alimentacao
+4,2026-01-15,CLI004,credito,12500.00,Venda de veiculo usado,venda
+5,2026-01-19,CLI001,debito,89.90,Fatura internet fibra,conta
+6,2026-01-22,CLI005,debito,350.00,Consulta veterinaria,saude
+7,2026-01-27,CLI002,debito,210.00,Combustivel posto ipiranga,transporte
+8,2026-02-02,CLI002,debito,320.00,Conta de energia eletrica,conta
+9,2026-02-05,CLI001,credito,3500.00,Salario fevereiro,salario
+10,2026-02-09,CLI003,debito,75.40,Farmacia popular,saude
+11,2026-02-14,CLI004,credito,15000.00,Transferencia bonus anual,transferencia
+12,2026-02-17,CLI005,debito,1200.00,Aluguel residencial,moradia
+13,2026-02-21,CLI002,debito,145.20,Supermercado mensal,compra
+14,2026-02-24,CLI001,debito,60.00,Recarga transporte,transporte
+15,2026-02-27,CLI003,debito,199.00,Curso online programacao,educacao
+16,2026-03-02,CLI001,credito,3500.00,Salario marco,salario
+17,2026-03-05,CLI002,credito,2800.00,Consultoria PJ,servico
+18,2026-03-09,CLI003,debito,99.90,Assinatura streaming,assinatura
+19,2026-03-12,CLI005,debito,430.00,Manutencao preventiva carro,servico
+20,2026-03-16,CLI004,debito,85.00,Jantar restaurante,alimentacao
+21,2026-03-20,CLI001,debito,150.00,Academia mensalidade,saude
+22,2026-03-25,CLI002,credito,18500.00,Resgate aplicacao financeira,investimento
+23,2026-03-29,CLI003,debito,312.45,Compras materiais escritorio,compra
+24,2026-04-03,CLI001,credito,3500.00,Salario abril,salario
+25,2026-04-07,CLI004,debito,110.00,Abastecimento posto,transporte
+26,2026-04-11,CLI005,debito,65.00,Livraria compras,educacao
+27,2026-04-15,CLI002,debito,280.00,Conta de agua e esgoto,conta
+28,2026-04-18,CLI003,credito,4500.00,Comissao vendas marco,salario
+29,2026-04-22,CLI001,debito,520.00,Supermercado atacado,compra
+30,2026-04-26,CLI004,debito,130.00,Cinema e entretenimento,lazer
+31,2026-04-30,CLI005,debito,95.00,Plano celular movel,conta
+32,2026-05-04,CLI001,credito,3500.00,Salario maio,salario
+33,2026-05-08,CLI002,debito,175.80,Padaria e confeitaria,alimentacao
+34,2026-05-12,CLI003,debito,890.00,Seguro automotivo parcela,servico
+35,2026-05-16,CLI004,credito,22000.00,Recebimento heranca / partilha,transferencia
+36,2026-05-20,CLI005,debito,78.00,Farmacia remedios,saude
+37,2026-05-24,CLI001,debito,240.00,Vestuario e calacados,compra
+38,2026-05-28,CLI002,debito,64.90,Servico de nuvem storage,assinatura
+39,2026-06-02,CLI001,credito,3500.00,Salario junho,salario
+40,2026-06-06,CLI003,debito,180.00,Manutencao ar condicionado,servico
+41,2026-06-10,CLI004,debito,95.50,Almoco corporativo,alimentacao
+42,2026-06-15,CLI005,credito,3100.00,Freelance design,servico
+43,2026-01-20,CLI001,debito,abc, tipo,compra
+44,2026-02-03,,debito,200.00, sem cliente_id,transferencia
+45,2026-02-15,CLI002,debito,145.00, data invalida,alimentacao
+46,2026-02-31,CLI004,debito,80.00,Data inválida 31 de fevereiro,compra
+47,2026-03-10,CLI003,credito,15000.00, pix suspeito ,ajuste
+48,2026-03-18,CLI005,credito,,Valor vazio nulo,salario
+49,2026-08-02,CLI001,debito,50.00, ebook, compra
+50,2026-04-14,CLI002,debito,-150.00,Valor negativo incorreto,compra
+51,2026-05-18,CLI003,debito,320.00, contador, assinatura
+52,2026-06-01, CLI007,credito,600, ,
